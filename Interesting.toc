@@ -1,0 +1,8 @@
+## Interface: 110002
+## Title: Interesting
+## Notes: Interesting
+## Author: WIKR
+## Version: 1.0
+## SavedVariables: InterestingDB
+
+Interesting.lua
